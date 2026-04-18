@@ -1,10 +1,1 @@
-👋 Hi there! I'm Ajith, a passionate Spring Boot developer with a knack for building scalable and efficient applications. My expertise lies in leveraging the power of Spring Boot, along with cutting-edge technologies like Elasticsearch, OpenSearch, Redis, and Apache Pulsar.
-
-🌟 About Me
-With a background in backend development, I thrive on solving complex challenges and creating seamless experiences for users. My journey in tech has equipped me with a diverse skill set that I continuously expand by exploring new tools and frameworks.
-
-🚀 Technologies I Love
-Spring Boot: Crafting robust REST APIs and microservices that are both powerful and easy to maintain.
-Elasticsearch & OpenSearch: Optimizing search functionalities to deliver lightning-fast, relevant results.
-Redis: Utilizing in-memory data structures for caching and real-time analytics, ensuring high performance.
-Apache Pulsar: Mastering event streaming and messaging for building responsive and resilient systems.
+Full-stack developer passionate about building innovative solutions across web, mobile, and backend technologies. I specialize in JavaScript ecosystems (Node.js, modern web frameworks) and backend development with Java and Kotlin. My interests span emerging technologies including augmented reality (AR), in-memory caching systems, voice-based AI applications, and secure AI implementations. I'm experienced in building production systems like email reminder applications, multi-tenant platforms, and real-time communication servers. Currently focused on creating intelligent solutions that leverage AI/ML technologies, security-first designs, and scalable architectures.
